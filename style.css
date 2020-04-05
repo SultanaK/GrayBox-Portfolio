@@ -87,10 +87,9 @@ h1 {
     text-align: center;
     margin: auto;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 300px) {
     #myBtnContainer {
-        display: flexls
-        ;
+        display: flexls;
         justify-content: space-evenly;
     }
 }
